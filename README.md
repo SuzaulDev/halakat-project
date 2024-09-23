@@ -1,1 +1,1 @@
-# halakat-project
+# halakat_ui
